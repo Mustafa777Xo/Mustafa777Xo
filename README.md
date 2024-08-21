@@ -50,7 +50,7 @@ _Sudan, Mar 2021 - Nov 2022_
 
 ## 🚀 Projects
 
-### [Public Investment Fund Marketplace](https://github.com/Mustafa777Xo/PIF-Marketplace)
+### [Public Investment Fund Marketplace]
 *TypeScript, Vue.js, Vuetify3, Scss, Git, Figma | May 2024 - Jul 2024*  
 - Developed a B2B marketplace, increasing vendor participation.
 - Designed intuitive interfaces, enhancing user satisfaction.
