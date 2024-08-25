@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mustafa Abdo Rahma Ismail!
+# Hi there 👋, I'm Mustafa Abdo!
 
 I'm a **Frontend Engineer**, **UI/UX Designer**, and **Data Analyst** based in Riyadh, Saudi Arabia. With a Bachelor's degree in Information Technology and multiple certifications in advanced data analytics and machine learning, I specialize in creating responsive web and mobile applications using modern technologies like Vue.js and Flutter.
 
