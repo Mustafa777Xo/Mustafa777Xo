@@ -22,7 +22,7 @@ _Sudan University of Science and Technology_
 - **Machine Learning Specialization** - Jan 2024
 
 ## 📝 Publication
-**Career Craft**[link](https://www.ajrsp.com/en/Archive/issue-58/6/)
+**Career Craft**  [link](https://www.ajrsp.com/en/Archive/issue-58/6/)
 _Academic Journal of Research and Scientific Publishing | Oct 2024_  
 - Published a paper on bridging the IT skills gap, increasing employability for graduates.
 
