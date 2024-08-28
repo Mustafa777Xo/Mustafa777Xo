@@ -6,7 +6,7 @@ I’m passionate about leveraging my skills to build impactful solutions that en
 
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript, Java, Python, Dart, PHP, C#, HTML/CSS, SQL, DAX
-- **Frameworks**: Vue.js, Flutter, Tailwind, Bootstrap5, Vuetify3, Sass, Scss
+- **Frameworks**: Vue.js,React.js Flutter, Tailwind, Bootstrap5, Vuetify3, Sass, Scss
 - **Developer Tools**: Git, Visual Studio, PyCharm, Jupyter Notebook, Eclipse, Power BI, Figma, Adobe XD, Google Cloud Platform, Excel, PowerPoint
 - **Data Analysis & Statistics**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Machine Learning**: TensorFlow, Scikit-learn
